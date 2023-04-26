@@ -1,0 +1,6 @@
+{
+    "require": {
+        "illuminate/database": "^10.4",
+        "firebase/php-jwt": "^6.4"
+    }
+}
